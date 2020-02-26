@@ -5,7 +5,7 @@
 * Tele Op
   * Tank Drive Functionality
   * Manipulation of all Intake Components
-  * Manipulation if Climber Winch
+  * Manipulation of Climber Winch
 * Auton
   * Null Auton (Doesn't Do Anything)
   * Simple, Off Line Auton (Dirives Fwd Full Pwr for 3/4 of a Second)
